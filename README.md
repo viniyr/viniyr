@@ -53,8 +53,7 @@
 
 ## 📊 Github:
   
-<img alt="Chaitanya-Pratap-Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=viniyr&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-<img alt="Chaitanya-Pratap-Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniyr&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="Chaitanya-Pratap-Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=viniyr&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /><img alt="Chaitanya-Pratap-Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniyr&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 
  
 <h4 align="center">Minhas redes sociais:</h4>
