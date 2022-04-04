@@ -1,7 +1,7 @@
 <p align="center"><img width="30%" src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif" height=30%/></p>
 <h1 align="center">🐱‍👓</h1>
 
-• 📚 Atualmente aprendendo Node.js e React!<br>
+• 📚 Atualmente aprendendo Typescript e Angular!<br>
 • 🧐 Sempre buscando conhecimento para saciar minha curiosidade.<br>
 • ⚡ Em busca de novos desafios.
  
@@ -21,13 +21,14 @@
 
 <h4> Frameworks </h4>
 <span>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/-Apache%20Maven-%23C71A36?logo=apachemaven&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white%22">
   <img src="https://img.shields.io/badge/-JQuery-%230769AD?logo=jquery&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/-Apache%20Maven-%23C71A36?logo=apachemaven&style=for-the-badge">
 </span>
 
 <h4> Databases </h4>
