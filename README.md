@@ -1,7 +1,7 @@
 <p align="center"><img width="30%" src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif" height=30%/></p>
 <h1 align="center">🐱‍👓</h1>
 
-• 📚 Atualmente aprendendo Typescript e Angular!<br>
+• 📚 Atualmente aprendendo Golang!<br>
 • 🧐 Sempre buscando conhecimento para saciar minha curiosidade.<br>
 • ⚡ Em busca de novos desafios.
  
