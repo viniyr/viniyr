@@ -1,7 +1,7 @@
 <p align="center"><img width="30%" src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif" height=30%/></p>
 <h1 align="center">🐱‍👓</h1>
 
-• 📚 Atualmente aprendendo Golang!<br>
+• 📚 Atualmente aprendendo REACT!<br>
 • 🧐 Sempre buscando conhecimento para saciar minha curiosidade.<br>
 • ⚡ Em busca de novos desafios.
  
@@ -25,6 +25,7 @@
 
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white%22">
   <img src="https://img.shields.io/badge/-JQuery-%230769AD?logo=jquery&style=for-the-badge">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -37,13 +38,6 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </span>
-
-<h4> IDE </h4>
-<span>
-
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/Spring%20Tool%20Suite-mB33F?logo=spring&style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/-PYCHARM-%23000000?logo=pycharm&style=for-the-badge">
 
 <h4> Operating System </h4>
 <span>
