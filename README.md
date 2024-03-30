@@ -1,7 +1,3 @@
-<p align="center"><img width="100%" src="https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif" height=20%/></p>
-
-<hr>
-
 <h6 align="center">About me: </h6>
 
 
