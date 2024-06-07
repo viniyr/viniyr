@@ -34,5 +34,5 @@ audaces fortuna juvat
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://img.wattpad.com/cc2f3ef9fdbb57bd15c4857558847cb4c955ef29/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f594749334f315642774f724b4a413d3d2d313231333139373533382e313665343932356435323765316261363534343832353131363332392e676966');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/viniyr/assets/main/bg-gh.png');]{x0000}$}
   
