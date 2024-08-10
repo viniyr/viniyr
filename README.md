@@ -16,7 +16,7 @@
       os: 
         - debian, ubuntu, linux
     </pre>
-     <pre>
+     <pre style="overflow-x: hidden">
                                                 -----
                                               /      \
                                               )      |
