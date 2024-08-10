@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="https://github.com/viniyr/assets/blob/main/keyboard.gif" height="910" width="400" align="left" />
+  <img src="https://github.com/viniyr/assets/blob/main/keyboard.gif" height="950" width="400" align="left" />
   <p float="left">
     <pre>
       fullstack developer
