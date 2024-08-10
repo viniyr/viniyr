@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="https://i.pinimg.com/originals/aa/48/46/aa4846d84035bb97903a10edfe0f22e9.gif" height="800" width="500" align="left" />
+  <img src="https://i.pinimg.com/originals/aa/48/46/aa4846d84035bb97903a10edfe0f22e9.gif" height="800" width="400" align="left" />
   <p float="left">
     <pre>
                _nnnn_                      
