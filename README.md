@@ -1,6 +1,4 @@
 <p float="left">
-  <img src="https://github.com/viniyr/assets/blob/main/keyboard.gif" height="950" width="400" align="left" />
-  <p float="left">
     <pre>
       fullstack developer
       <br>
@@ -15,8 +13,9 @@
       <br>
       os: 
         - debian, ubuntu, linux
-    </pre>
-     <pre style="overflow-x: hidden" overflow="hidden">
+   </pre>
+  <p float="left">
+     <pre style="overflow-x: hidden" overflow="hidden" >
                                                 -----
                                               /      \
                                               )      |
