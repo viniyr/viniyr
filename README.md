@@ -13,6 +13,9 @@
       <br>
       os: 
         - debian, ubuntu, linux
+      <br>
+      cloud:
+        - aws, google cloud, digital ocean, azure
    </pre>
   <p float="left">
      <pre style="overflow-x: hidden" overflow="hidden" >
