@@ -1,22 +1,4 @@
 <p float="left">
-    <pre>
-      fullstack developer
-      <br>
-      worked with (frontend) :
-       - nextjs, tailwindcss, react, angular, redux
-      <br>
-      backend: 
-       - nodejs, express, python, docker
-      <br>
-      dbs: 
-       - mongodb, mysql, postgres 
-      <br>
-      os: 
-        - debian, ubuntu, linux
-      <br>
-      cloud:
-        - aws, google cloud, digital ocean, azure
-   </pre>
   <p float="left">
      <pre style="overflow-x: hidden" overflow="hidden" >
                                                 -----
