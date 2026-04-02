@@ -27,9 +27,3 @@
     </pre>
   </p>
 </p>
-
-<p align="center">
-<samp>
-  audaces fortuna juvat 🪙
-</samp>
-</p>
